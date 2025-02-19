@@ -17,3 +17,5 @@ PRG: Bridge 1st Circle + 2nd square for 512kb or Top pads for 256kb
 CHR: Bridge 3rd Circle + 1st square for 256kb
 
 Oshpark link: https://oshpark.com/shared_projects/fcmApdiZ
+
+Special thanks to https://github.com/techav-homebrew/LCC32-DIP32-Flash-Adapter for saving me some time on the 32pin board. Everything else is custom, hence the included libraries. 
