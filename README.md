@@ -1,3 +1,5 @@
+This project is for the NES / Famicom to be able to use flash chips for translations or replace dead roms. 
+
 The multi adapter board is a prototype but should work. I will update once tested. MMC5 only board is confirmed working. Everything created in eagle. Feel free to use with credit.
 
 MMC5 / PRG / CHR to 48TSOP Flash Adatper
