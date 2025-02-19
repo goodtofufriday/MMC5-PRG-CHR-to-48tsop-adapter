@@ -15,3 +15,5 @@ MMC5: Bridge all five circled jumpers
 PRG: Bridge 1st Circle + 2nd square for 512kb or Top pads for 256kb
 
 CHR: Bridge 3rd Circle + 1st square for 256kb
+
+Oshpark link: https://oshpark.com/shared_projects/fcmApdiZ
