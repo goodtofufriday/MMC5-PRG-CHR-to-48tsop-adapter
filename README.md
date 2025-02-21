@@ -8,15 +8,21 @@ MMC5 / PRG / CHR to 48TSOP Flash Adatper
 
 Replace roms with this board. Use 5v 8megabit flash
 
-Below are instructions for the multi-board adapter. 
+Below are instructions for the multi-board adapter. You can use this even for 28 pin rom boards.
 
-Bridge Pin1 for all EXCEPT 128kb chr boards
+Place on back of rom. Pull rom CE/OE + pull high 
 
-MMC5: Bridge all five circled jumpers
+Bridge Pin1 and 3 for all EXCEPT 128kb chr or Nrom boards
+
+MMC5: Bridge all six circled jumpers
+
+CHR: Bridge 3rd Circle + 1st square for 256kb
 
 PRG: Bridge 1st Circle + 2nd square for 512kb or Top pads for 256kb
 
-CHR: Bridge 3rd Circle + 1st square for 256kb
+
+Also included is a ram adapter for romhacks like megaman minus inifinity. use ram IS61C256AL
+
 
 Oshpark link: https://oshpark.com/shared_projects/fcmApdiZ
 
