@@ -1,4 +1,6 @@
-This project is for the NES / Famicom to be able to use flash chips for translations or replace dead roms. 
+This project is for the NES / Famicom to be able to use flash chips for translations or replace dead roms. Also sram.
+
+
 
 The multi adapter board is a prototype but should work. I will update once tested. MMC5 only board is confirmed working. Everything created in eagle. Feel free to use with credit.
 
@@ -25,10 +27,13 @@ Also included is a ram adapter for romhacks like megaman minus inifinity. use ra
 
 
 Oshpark links: 
+
 Piggyback ver. https://oshpark.com/shared_projects/Uz4v9Vq7
 
 Ram adapter https://oshpark.com/shared_projects/bVWn1u0x
 
 MMC5 only ver. https://oshpark.com/shared_projects/fcmApdiZ
+
+
 
 Special thanks to https://github.com/techav-homebrew/LCC32-DIP32-Flash-Adapter for saving me some time on the 32pin board. Everything else is custom, hence the included libraries. 
