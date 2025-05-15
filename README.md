@@ -39,3 +39,5 @@ MMC5 only ver. https://oshpark.com/shared_projects/fcmApdiZ
 
 
 Special thanks to https://github.com/techav-homebrew/LCC32-DIP32-Flash-Adapter for saving me some time on the 32pin board. Everything else is custom, hence the included libraries. 
+
+Ive also made a ram adapter for games like megaman 4 minus infiniti.
