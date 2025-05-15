@@ -1,3 +1,5 @@
+BOARDS NEED TO HAVE GROUND PLANE ADDED TO THEM FOR STABILITY! They work but after even a few minutes crash, consensus is due to lack of ground plane. Will update when i have time.
+
 This project is for the NES / Famicom to be able to use flash chips for translations or replace dead roms. Also sram.
 
 
