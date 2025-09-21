@@ -1,4 +1,4 @@
-*BOARDS NEED TO HAVE GROUND PLANE ADDED TO THEM FOR STABILITY! They work but after even a few minutes crash, consensus is due to lack of ground plane. Will update when i have time._
+*BOARDS NEED TO HAVE GROUND PLANE ADDED TO THEM FOR STABILITY! They work but after even a few minutes crash, consensus is due to lack of ground plane. Will update when i have time.*
 
 THIS IS NOW IN TESTING
 
