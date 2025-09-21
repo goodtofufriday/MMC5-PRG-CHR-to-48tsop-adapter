@@ -1,13 +1,12 @@
 *BOARDS NEED TO HAVE GROUND PLANE ADDED TO THEM FOR STABILITY! They work but after even a few minutes crash, consensus is due to lack of ground plane. Will update when i have time.*
 
-THIS IS NOW IN TESTING
+THIS IS NOW IN TESTING! Only the piggyback version has been updated to include a ground plane and larger bridging pads.
 
 
 This project is for the NES / Famicom to be able to use flash chips for translations or replace dead roms. Also sram.
 
 
-
-The multi adapter board is a prototype but should work. I will update once tested. MMC5 only board is confirmed working. Everything created in eagle. Feel free to use with credit.
+Everything created in eagle. Feel free to use with credit.
 
 Piggyback version included. You need to pull chip enable and connect to 5v to disable the rom.
 
